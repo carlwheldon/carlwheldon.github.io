@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Physics and Astronomy, University of Birmingham</a>
+subtitle: <a href='https://www.birmingham.ac.uk/staff/profiles/physics/wheldon-carl'>School of Physics and Astronomy, University of Birmingham</a>
 
 profile:
   align: right
