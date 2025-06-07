@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-order: 1
+nva_order: 1
 permalink: /
 subtitle: <a href='https://www.birmingham.ac.uk/staff/profiles/physics/wheldon-carl'>School of Physics and Astronomy, University of Birmingham</a>
 
