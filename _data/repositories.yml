@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - carlwheldon
+  - bhamnuclear
+  - effeffe
+  - jackbishopbham
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - bhamnuclear/ckin
+  - bhamnuclear/halflife
+  - bhamnuclear/spec_conv
+  - bhamnuclear/HF-ADNeF_OpenMC
+  
