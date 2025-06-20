@@ -5,5 +5,17 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"PhysRevC":
+  url: https://journals.aps.org/prc
+  color: "#00538b"
+
+"PhysLettB":
+  url: https://www.sciencedirect.com/journal/physics-letters-b
+  color: "#fc736b"
+
+"EPJA":
+  url: https://epja.epj.org/
+  color: "#ffdd00"
+
 "Vision":
   color: "#009f36"
