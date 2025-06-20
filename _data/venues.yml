@@ -2,6 +2,46 @@
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
+"EPJPlus":
+  url: https://link.springer.com/journal/13360
+  color: "#ad173e"
+
+"EPJA":
+  url: https://epja.epj.org/
+  color: "#ffdd00"
+
+"EPJWebConf":
+  url: https://www.epj-conferences.org/ 
+  color: "#a194ca"
+
+"JPhysConf":
+  url: https://iopscience.iop.org/journal/1742-6596
+  color: "#2a2979"
+
+"JPhysG":
+  url: https://iopscience.iop.org/journal/0954-3899
+  color: "#dadada"
+
+"NIMA":
+  url: https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-a-accelerators-spectrometers-detectors-and-associated-equipment
+  color: "#efe20b"
+
+"NPA":
+  url: https://www.sciencedirect.com/journal/nuclear-physics-a
+  color: "#271b17"
+
+"NPN":
+  url: https://www.tandfonline.com/journals/gnpn20
+  color: "#10147e"
+
+"NatComm":
+  url: https://www.nature.com/ncomms/ 
+  color: "#294c5b"
+
+"PhysLettB":
+  url: https://www.sciencedirect.com/journal/physics-letters-b
+  color: "#fc736b"
+  
 "PhysRev":
   url: https://journals.aps.org/
 
@@ -9,13 +49,13 @@
   url: https://journals.aps.org/prc
   color: "#00538b"
 
-"PhysLettB":
-  url: https://www.sciencedirect.com/journal/physics-letters-b
-  color: "#fc736b"
+"PhysRevLett":
+  url: https://journals.aps.org/prl
+  color: "#00538b"
 
-"EPJA":
-  url: https://epja.epj.org/
-  color: "#ffdd00"
+"Sensors":
+  url: https://www.mdpi.com/journal/sensors
+  color: "#007c7f"
 
 "Vision":
   color: "#009f36"
