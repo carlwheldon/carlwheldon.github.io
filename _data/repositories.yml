@@ -3,11 +3,12 @@ github_users:
   - effeffe
   - jackbishopbham
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
   - bhamnuclear/ckin
   - bhamnuclear/halflife
   - bhamnuclear/spec_conv
   - bhamnuclear/HF-ADNeF_OpenMC
+  - alshedivat/al-folio
   
