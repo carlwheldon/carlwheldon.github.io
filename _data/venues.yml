@@ -14,6 +14,10 @@
   url: https://www.epj-conferences.org/ 
   color: "#a194ca"
 
+"JINST":
+  url: https://iopscience.iop.org/journal/1748-0221
+  color: "#a2c67b"
+  
 "JPhysConf":
   url: https://iopscience.iop.org/journal/1742-6596
   color: "#2a2979"
