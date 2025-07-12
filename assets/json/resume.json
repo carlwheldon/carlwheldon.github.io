@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Carl Wheldon",
+    "label": "Professor of Nuclear Physics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "c.wheldon@bham.ac.uk",
+    "phone": "N/A",
+    "url": "https://carlwheldon.github.io/",
+    "summary": "A nuclear physicist with interests ranging from nuclear structure physics to applications, novel medical isotopes and neutrons",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "School of Physics and Astronomy, University of Birmingham",
+      "postalCode": "B15 2TT",
+      "city": "Birmingham",
+      "countryCode": "UK",
+      "region": "West Midlands"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "School of Physics and Astronomy, University of Birmingham",
+      "position": "Professor of Nuclear Physics",
+      "url": "https://www.birmingham.ac.uk/staff/profiles/physics/wheldon-carl",
+      "startDate": "2007-10",
+      "endDate": "",
+      "summary": "Research and teaching",
+      "highlights": ["High Flux Accelerator-Driven Neutron Facility (HF-ADNeF)"]
     }
   ],
   "volunteer": [
