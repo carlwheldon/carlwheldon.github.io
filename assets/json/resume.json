@@ -48,18 +48,11 @@
   ],
   "awards": [
     {
-      "title": "Senior Fellow of the Higher Education Academy",
-      "date": "2017-06-29",
-      "awarder": "Higher Education Academy",
-      "url": "https://www.advance-he.ac.uk/fellowship/senior-fellowship",
-      "summary": "Professional award for teaching and supporting learning in higher education."
-    },
-    {
-      "title": "Alexander von Humboldt Fellow",
-      "date": "2004-08-01",
-      "awarder": "Alexander von Humboldt Foundation",
-      "url": "https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1115688/dr-carl-wheldon",
-      "summary": "Research Fellowship."
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "languages": [
