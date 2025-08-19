@@ -76,7 +76,7 @@
     {
       "name": "Nuclear Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
+      "highlights": [
         "The study of exotic states in light nuclei with an emphasis on understanding structures important for nucleosynthesis",
         "Resonant scattering to study nuclear clusters away from the valley of stability using radioactive beams and novel detection systems",
         "The study of long-lived, isomeric nuclear states as a way to investigate structures in neutron-rich nuclei",
