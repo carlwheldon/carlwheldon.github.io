@@ -1,5 +1,5 @@
 {
-  "basics": [
+  "basics": {
     "name": "Carl Wheldon",
     "label": "Professor of Nuclear Physics",
     "image": "",
@@ -14,7 +14,7 @@
       "countryCode": "UK",
       "region": "West Midlands"
     },
-  ],
+  },
   "work": [
     {
       "name": "School of Physics and Astronomy, University of Birmingham",
