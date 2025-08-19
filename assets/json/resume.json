@@ -14,23 +14,16 @@
       "countryCode": "UK",
       "region": "West Midlands"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "School of Physics and Astronomy, University of Birmingham",
+      "position": "Nuclear Physics Group",
+      "url": "https://www.birmingham.ac.uk/staff/profiles/physics/wheldon-carl",
+      "startDate": "2007-10",
+      "endDate": "",
+      "summary": "Research and teaching",
+      "highlights": ["High Flux Accelerator-Driven Neutron Facility (HF-ADNeF)", "Birmingham MC40 Cyclotron Facility"]
     }
   ],
   "volunteer": [
