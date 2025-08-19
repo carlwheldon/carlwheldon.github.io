@@ -14,14 +14,6 @@
       "countryCode": "UK",
       "region": "West Midlands"
     },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
-  },
   "work": [
     {
       "name": "School of Physics and Astronomy, University of Birmingham",
@@ -62,21 +54,6 @@
       "summary": "Research Fellowship."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "English",
@@ -105,6 +82,19 @@
         "The calculation and production of novel medical radioisotopes",
         "Measurements of nuclear data of relevance to the nuclear fission, fusion and medicine communities",
         "Neutron sources and neutron production and applications"
+      ]
+    }
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Cycling",
+        "Swimming",
+        "Running",
+        "Reading",
+        "DIY",
+        "Programming",
+        "etc."
       ]
     }
   ],
