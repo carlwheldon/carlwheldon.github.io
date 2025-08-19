@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "github",
+        "username": "carlwheldon",
+        "url": "https://github.com/carlwheldon/"
       }
     ]
   },
@@ -35,15 +35,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Surrey, Guildford, UK",
+      "location": "Guildford, UK",
+      "url": "https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/K-isomerism-at-high-spin-beyond-the-fusion/99512019502346",
+      "area": "Nuclear Structure",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "1996-10-01",
+      "endDate": "1999-07-06",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["K-isomerism at high-spin beyond the fusion limit"]
     }
   ],
   "awards": [
