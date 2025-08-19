@@ -1,27 +1,20 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "basics": [
+    "name": "Carl Wheldon",
+    "label": "Professor of Nuclear Physics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "c.wheldon@bham.ac.uk",
+    "phone": "N/A",
+    "url": "https://carlwheldon.github.io/",
+    "summary": "A nuclear physicist with interests ranging from nuclear structure physics to applications, novel medical isotopes and neutrons",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "School of Physics and Astronomy, University of Birmingham",
+      "postalCode": "B15 2TT",
+      "city": "Birmingham",
+      "countryCode": "UK",
+      "region": "West Midlands"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
