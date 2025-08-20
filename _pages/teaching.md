@@ -8,6 +8,7 @@ nav_order: 6
 ---
 
 Present teaching:
+
 * 2025-present Yr4 Nuclear Projects Coordinator
 * 2018-present Yr3/Yr4 Fission and Fusion
 * 2012-present PTNR/Yr4 Nucl. Eng. Reactor Physics
