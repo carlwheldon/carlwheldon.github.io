@@ -48,11 +48,18 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Senior Fellow of the Higher Education Academy",
+      "date": "2017-06-29",
+      "awarder": "Higher Education Academy",
+      "url": "https://www.advance-he.ac.uk/fellowship/senior-fellowship",
+      "summary": "Professional award for teaching and supporting learning in higher education."
+    },
+    {
+      "title": "Alexander von Humboldt Fellow",
+      "date": "2004-08-01",
+      "awarder": "Alexander von Humboldt Foundation",
+      "url": "https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1115688/dr-carl-wheldon",
+      "summary": "Research Fellowship."
     }
   ],
   "languages": [
@@ -76,7 +83,7 @@
     {
       "name": "Nuclear Physics",
       "icon": "fa-solid fa-tag",
-      "highlights": [
+      "keywords": [
         "The study of exotic states in light nuclei with an emphasis on understanding structures important for nucleosynthesis",
         "Resonant scattering to study nuclear clusters away from the valley of stability using radioactive beams and novel detection systems",
         "The study of long-lived, isomeric nuclear states as a way to investigate structures in neutron-rich nuclei",
