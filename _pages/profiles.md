@@ -19,7 +19,7 @@ profiles:
     content: about_jb.md
     image_circular: true # crops the image to make it circular
     more_info: >
-  - align: right
+  - align: left
     image: pirrie-stuart-cropped-230x230-480.webp
     content: about_sp.md
     image_circular: true # crops the image to make it circular
