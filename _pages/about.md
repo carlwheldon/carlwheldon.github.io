@@ -3,7 +3,7 @@ layout: about
 title: Home
 nva_order: 1
 permalink: /
-subtitle: <a href='https://www.birmingham.ac.uk/staff/profiles/physics/wheldon-carl'>Professor of Nuclear Physics, School of Physics and Astronomy</a>
+subtitle: <a href='https://www.birmingham.ac.uk/staff/profiles/physics/wheldon-carl'>Professor of Nuclear Physics, University of Birmingham</a>
 
 profile:
   align: right
