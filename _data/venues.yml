@@ -30,6 +30,10 @@
   url: https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-a-accelerators-spectrometers-detectors-and-associated-equipment
   color: "#efe20b"
 
+"NIMB":
+  url: https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-b-beam-interactions-with-materials-and-atoms
+  color: "#2c235e"
+
 "NPA":
   url: https://www.sciencedirect.com/journal/nuclear-physics-a
   color: "#271b17"
