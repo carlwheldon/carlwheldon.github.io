@@ -22,7 +22,7 @@
   url: https://iopscience.iop.org/journal/1742-6596
   color: "#2a2979"
 
-"JPhysG":
+<span style="color: black;">"JPhysG":</span>
   url: https://iopscience.iop.org/journal/0954-3899
   color: "#dadada"
 
